@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="사과"
+        android:id="@+id/apple"
+        android:onClick="apple_click">
+    </item>
+
+    <item android:title="포도"
+        android:id="@+id/grape"
+        android:onClick="grape_click">
+    </item>
+
+    <item android:title="바나나"
+        android:id="@+id/banana"
+        android:onClick="banana_click">
+    </item>
+</menu>
